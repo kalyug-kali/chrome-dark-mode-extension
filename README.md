@@ -32,13 +32,16 @@ dark-mode-transformer/
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/kalyug-kali/chrome-dark-mode-extension.git
-2.Open Chrome and go to chrome://extensions
+   
+2. Open Chrome and go to chrome://extensions
 
-3.Enable Developer Mode (top right)
+3. Enable Developer Mode (top right)
 
-4.Click Load unpacked and select the project folder
+4. Click Load unpacked and select the project folder
 
-5.The Dark Mode Transformer extension is now active!
+5. The Dark Mode Transformer extension is now active!
+
+   
  Use Case
 Perfect for:
 
